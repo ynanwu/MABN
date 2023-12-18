@@ -16,6 +16,11 @@ We focus on the problem of *Test-time Domain Adaptation (TTDA)* or *Few-shot TTD
 <img width="80%" alt="Setting" src="figs/method.png">
 </div>
 
+## :star: Acknowledgement
+
+Our code is built upon the codebase from [MetaDMoE (NeurIPS22)](https://github.com/n3il666/Meta-DMoE)
+
+
 ## <a name="cite"/> :clipboard: Citation
 
 If you use this code in your research, please consider citing our paper:
