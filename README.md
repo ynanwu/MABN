@@ -12,6 +12,10 @@ We focus on the problem of *Test-time Domain Adaptation (TTDA)* or *Few-shot TTD
 
 ## Method overview
 
+<div align="center">
+<img width="80%" alt="Setting" src="figs/method.png">
+</div>
+
 ## <a name="cite"/> :clipboard: Citation
 
 If you use this code in your research, please consider citing our paper:
