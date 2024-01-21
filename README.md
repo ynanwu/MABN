@@ -1,7 +1,22 @@
-#  MABN (AAAI2024)
-This repo contains official implementation of our paper: Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization
+<br />
+<p align="center">
+  <h1 align="center">Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization</h1>
+  <p align="center">
+    AAAI 2024 (Oral)
+    <br />
+  </p>
 
-***(Code coming soon)***
+  <p align="center">
+    <a href='https://arxiv.org/abs/2312.10165'>
+      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+    </a>
+    <a href='https://chi-chi-zx.github.io/MABN_project/' style='padding-left: 0.5rem;'>
+      <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
+    </a>
+  </p>
+<br />
+
+## ***(Code coming soon)***
 
 ## Background
 We focus on the problem of *Test-time Domain Adaptation (TTDA)* or *Few-shot TTDA*. When an unseen target domain is encountered at test-time, a few unlabeled images are sampled to update the model towards that domain. The adapted model is then used for testing the data in that domain. 
@@ -25,9 +40,10 @@ Our code is built upon the codebase from [MetaDMoE (NeurIPS22)](https://github.c
 
 If you use this code in your research, please consider citing our paper:
 ```
-@InProceedings{wu2024MABN,
-               title={Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization},
-               author={Yanan Wu, Zhixiang Chi, Yang Wang, Konstantinos N. Plataniotis, Songhe Feng},
-               booktitle={AAAI Conference on Artificial Intelligence},
-               year={2024}}
+@article{wu2023test,
+  title={Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization},
+  author={Wu, Yanan and Chi, Zhixiang and Wang, Yang and Plataniotis, Konstantinos N and Feng, Songhe},
+  journal={arXiv preprint arXiv:2312.10165},
+  year={2023}
+}
 ```
