@@ -38,7 +38,7 @@ If you use this code in your research, please consider citing our paper:
 @article{wu2023test,
   title={Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization},
   author={Wu, Yanan and Chi, Zhixiang and Wang, Yang and Plataniotis, Konstantinos N and Feng, Songhe},
-  journal={arXiv preprint arXiv:2312.10165},
-  year={2023}
+  journal={AAAI Conference on Artificial Intelligence},
+  year={2024}
 }
 ```
